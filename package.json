@@ -1,0 +1,23 @@
+{
+  "name": "node_what_todo",
+  "version": "1.0.0",
+  "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0",
+    "mysql2": "^1.3.5",
+    "sequelize": "^4.2.0"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  }
+}
